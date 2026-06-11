@@ -8,7 +8,7 @@ AI Project Idea Generator is a simple web application that helps students, devel
 
 https://aiproject-idea-generator.netlify.app/
 
-## 📸 Screenshot
+## 📸 Screenshots
 
 ![AI-Project-Idea-Generator](Screenshots/Screenshot1.png)
 
