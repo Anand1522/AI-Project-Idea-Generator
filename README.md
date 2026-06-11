@@ -12,9 +12,9 @@ https://aiproject-idea-generator.netlify.app/
 
 ![AI-Project-Idea-Generator](Screenshots/Screenshot1.png)
 
-![AI-Project-Idea-Generator](Screenshots/Screenshot1.png)   
+![AI-Project-Idea-Generator](Screenshots/Screenshot2.png)   
 
-![AI-Project-Idea-Generator](Screenshots/Screenshot1.png)   
+![AI-Project-Idea-Generator](Screenshots/Screenshot3.png)   
 
 
 ## ✨ Features
