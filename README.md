@@ -46,7 +46,7 @@ https://aiproject-idea-generator.netlify.app/
 * CSS
 * JavaScript
 * Built with the help of AI-assisted development tools
-* 
+
 ## 📋 How It Works
 
 1. Select a domain.
